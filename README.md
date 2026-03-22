@@ -12,6 +12,7 @@ Always building something — and occasionally breaking it on purpose.
 ## 📬 Contact
 
 - **Email:** parth.pathak1905@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/parth-pathak-584629335/
 - **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
 ---
 <p align="center"><i>always building something. usually works.</i></p>
