@@ -17,7 +17,7 @@ into full stack dev · app security · networking · and way too many anime seri
 ## 📬 let's connect
 
 - 📧 parth.pathak1905@gmail.com
-- 🌐 **for more, check out my website:** `coming soon`
+- 🌐 **for more, check out my website:** http://parthpathak719.github.io/
 
 ---
 
