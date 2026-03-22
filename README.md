@@ -1,15 +1,17 @@
-# Hey, i'm parth 👋
+# Hi, I'm Parth 👋
 
-CS student who builds web apps, breaks them, and calls it "security testing" 🙃
-into full stack dev · app security · networking · and way too many anime series
+CS student passionate about full stack web development, application security, and networking.
+Always building something — and occasionally breaking it on purpose.
 
-## 🎮 When i'm not coding
-- gaming (always)
-- watching cricket and having opinions about the selectors
-- somewhere in an anime rabbit hole
+## 🎮 Outside of Tech
 
-## 📬 Contact me
-- 📧 parth.pathak1905@gmail.com
-- 🌐 **for more, check out my website:** http://parthpathak719.github.io/
+- Gaming
+- Watching cricket (and having strong opinions about the selectors)
+- Exploring way too many anime series
+
+## 📬 Contact
+
+- **Email:** parth.pathak1905@gmail.com
+- **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
 ---
-<p align="center"><i>always building something. usually works.</i></p>
+<p align="center"><i>Always building. Always learning.</i></p>
