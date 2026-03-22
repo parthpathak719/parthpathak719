@@ -1,6 +1,6 @@
-# hey, i'm parth 👋
+# Hey, i'm parth 👋
 
-cs student who builds web apps, breaks them, and calls it "security testing" 🙃
+CS student who builds web apps, breaks them, and calls it "security testing" 🙃
 
 into full stack dev · app security · networking · and way too many anime series
 
