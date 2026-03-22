@@ -14,4 +14,4 @@ Always building something — and occasionally breaking it on purpose.
 - **Email:** parth.pathak1905@gmail.com
 - **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
 ---
-<p align="center"><i>Always building. Always learning.</i></p>
+<p align="center"><i>always building something. usually works.</i></p>
