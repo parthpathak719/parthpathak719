@@ -11,8 +11,8 @@ Always building something — and occasionally breaking it on purpose.
 
 ## 📬 Contact
 
-📧 Email: parth.pathak1905@gmail.com<br>
-💼 LinkedIn: [linkedin.com/in/parth-pathak-584629335](https://www.linkedin.com/in/parth-pathak-584629335/)<br>
-🌐 Website: [parthpathak719.github.io](http://parthpathak719.github.io/)
+<p>📧 Email: parth.pathak1905@gmail.com<br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/parth-pathak-584629335/">linkedin.com/in/parth-pathak-584629335</a><br>
+🌐 Website: <a href="http://parthpathak719.github.io/">parthpathak719.github.io</a></p>
 ---
 <p align="center"><i>always building something. usually does not work.</i></p>
