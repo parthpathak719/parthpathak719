@@ -5,7 +5,7 @@ Always building something — and occasionally breaking it on purpose.
 
 ## 🎮 Outside of Tech
 
-📱Gaming
+📱 Gaming
 🏏 Watching cricket (and having strong opinions about the selectors)
 📺 Exploring way too many anime series
 
