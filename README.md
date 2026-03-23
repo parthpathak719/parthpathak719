@@ -5,9 +5,9 @@ Always building something — and occasionally breaking it on purpose.
 
 ## 🎮 Outside of Tech
 
-- Gaming
-- Watching cricket (and having strong opinions about the selectors)
-- Exploring way too many anime series
+📱Gaming
+🏏 Watching cricket (and having strong opinions about the selectors)
+📺 Exploring way too many anime series
 
 ## 📬 Contact
 
