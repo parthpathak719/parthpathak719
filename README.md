@@ -1,7 +1,7 @@
 # Hi, I'm Parth 👋
 
 CS student passionate about full stack web development, application security, and networking.
-Always building something — and occasionally breaking it on purpose.
+Always building something, and occasionally breaking it on purpose.
 
 ## 🎮 Outside of Tech
 
