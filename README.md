@@ -14,6 +14,6 @@ Always building something, and occasionally breaking it on purpose.
 - **Email:** parth.pathak1905@gmail.com
 - **LinkedIn:** [linkedin.com/in/parth-pathak-584629335](https://www.linkedin.com/in/parth-pathak-584629335/)
 - **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)<br><br>
-![Visitor Count](https://visitcount.itsvg.in/api?id=parthpathak719&label=Profile%20Views&color=6&icon=5&pretty=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthpathak719&count_bg=%237B3FE4&title_bg=%23555555&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 <p align="center"><i>always building something. usually does not work.</i></p>
