@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=parthpathak719&color=blue&style=flat<br><br>
 # Hi, I'm Parth 👋
 
 CS student passionate about full stack web development, application security, and networking.
@@ -16,6 +17,3 @@ Always building something, and occasionally breaking it on purpose.
 - **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
 ---
 <p align="center"><i>always building something. usually does not work.</i></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthpathak719&color=black&style=flat" />
-</p>
