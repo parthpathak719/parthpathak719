@@ -17,5 +17,5 @@ Always building something, and occasionally breaking it on purpose.
 ---
 <p align="center"><i>always building something. usually does not work.</i></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthpathak719&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=parthpathak719&color=red&style=flat" />
 </p>
