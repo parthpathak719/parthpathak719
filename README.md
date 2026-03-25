@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=parthpathak719&color=blue&style=flat)<br>
+![Profile Views](https://komarev.com/ghpvc/?username=parthpathak719&color=blue&style=flat)
 # Hi, I'm Parth 👋
 
 CS student passionate about full stack web development, application security, and networking.
