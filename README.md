@@ -15,5 +15,5 @@ Always building something, and occasionally breaking it on purpose.
 - **Email:** parth.pathak1905@gmail.com
 - **LinkedIn:** [linkedin.com/in/parth-pathak-584629335](https://www.linkedin.com/in/parth-pathak-584629335/)
 - **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
----
+----
 <p align="center"><i>always working on something. that something usually does not work.</i></p>
