@@ -20,7 +20,7 @@ I'm a final year computer science student who likes turning ideas into working a
 
 - Gaming, because one more round always sounds reasonable.
 - Anime, with a watchlist that keeps getting longer.
-- Cricket, with strong opinions about the selectors.
+- Watching Cricket, with strong opinions about the selectors.
 - Badminton, when I remember that moving around is an option.
 
 ## 📬 Contact
