@@ -1,32 +1,22 @@
-<div align="center">
+![Parth Pathak — Full stack development, application security, and networking](assets/banner.svg)
 
-# hey, i'm parth 👋
+![Profile views](https://komarev.com/ghpvc/?username=parthpathak719&label=Profile%20views&color=148f83&style=flat)
 
-Code, cricket, and a growing anime watchlist.
+I'm Parth, a CS student who likes building applications and understanding the systems behind them. My interests sit somewhere between writing useful software, securing it, and figuring out how everything talks to everything else.
 
-![Profile views](https://komarev.com/ghpvc/?username=parthpathak719&label=Profile%20views&color=0d9488&style=flat)
+### On the tech side
 
-</div>
+- **Web development** — interfaces, APIs, and the backend that ties them together.
+- **Security & networking** — how applications behave, communicate, and hold up when things go wrong.
+- **Cloud & systems** — containers, deployments, and getting the pieces to work together.
 
-I'm a CS student into **full stack development**, **application security**, and **networking**. I like building applications, understanding how the pieces fit together, and going a little deeper than “it works.”
+You'll find a mix of projects and experiments here, with a few works in progress along the way.
 
-This is where I keep my projects, experiments, and whatever I'm learning along the way. Some things are finished. Some are still a work in progress. There's usually something new to figure out.
+### Away from the keyboard
 
-## 💻 Stuff I work on
+Gaming, watching cricket (and questioning the selectors), or adding another anime to an already unreasonable watchlist.
 
-- **Web applications** — putting together the interface, backend, and everything that connects them.
-- **Security & networking** — understanding how systems communicate, where things go wrong, and how to make them safer.
-- **Cloud & systems** — working with deployments, containers, and applications with more than one moving part.
-
-I enjoy the overlap between these areas: building something useful, getting it running, and understanding what keeps it running.
-
-## 🎮 Outside of tech
-
-- Gaming — because apparently staring at one screen all day isn't enough.
-- Watching cricket, with strong opinions about the selectors.
-- Exploring way too many anime series for someone with unfinished projects.
-
-## 📬 Contact
+### Contact
 
 - **Email:** [parth.pathak1905@gmail.com](mailto:parth.pathak1905@gmail.com)
 - **LinkedIn:** [linkedin.com/in/parth-pathak-584629335](https://www.linkedin.com/in/parth-pathak-584629335/)
@@ -34,4 +24,4 @@ I enjoy the overlap between these areas: building something useful, getting it r
 
 ---
 
-<p align="center"><i>always working on something. that something usually does not work.</i></p>
+<p align="center"><sub><i>always working on something. that something usually does not work.</i></sub></p>
