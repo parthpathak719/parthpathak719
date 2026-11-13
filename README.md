@@ -1,20 +1,24 @@
-![Profile Views](https://komarev.com/ghpvc/?username=parthpathak719&color=blue&style=flat)
+<div align="center">
 
-# Hi, I'm Parth 👋
+# Hey, I'm Parth 👋
 
-CS student interested in full stack web development, application security, and networking. I enjoy building useful applications and understanding the systems behind them.
+**Web development · AI · Cloud · Cybersecurity**
 
-## 💻 Stuff I work on
+![Profile Views](https://komarev.com/ghpvc/?username=parthpathak719&color=a78bfa&style=flat)
 
-- **Web applications:** Building interactive apps with a focus on usability and functionality.
-- **Security & networking:** Understanding how systems communicate and making them safer.
-- **Cloud & systems:** Working with containers, deployments, and connected applications.
+</div>
 
-## 🎮 Outside of tech
+I'm a final year computer science student who likes turning ideas into working applications, then figuring out how to make them better. Most of my time goes into building, experimenting, and understanding what happens under the hood.
 
-- Gaming, because apparently staring at one screen all day isn't enough.
-- Watching cricket, with strong opinions about the selectors.
-- Exploring way too many anime series for someone with unfinished projects.
+## ⚡ What I work on
+
+- **Web & cloud:** Full-stack applications, browser-based tools, and containerized systems.
+- **AI & ML:** Multilingual NLP, text detection, and tools that make studying a little easier.
+- **Security & networks:** Application testing, intrusion detection, and how systems communicate.
+
+## 🎮 Away from the keyboard
+
+Gaming, anime, and cricket. Occasionally badminton, when I remember that moving around is an option.
 
 ## 📬 Contact
 
