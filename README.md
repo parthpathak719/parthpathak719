@@ -1,23 +1,37 @@
 <div align="center">
 
-# Hi, I'm Parth 👋
+# hey, i'm parth 👋
 
-Building things. Understanding how they work.
+Code, cricket, and a growing anime watchlist.
 
 ![Profile views](https://komarev.com/ghpvc/?username=parthpathak719&label=Profile%20views&color=0d9488&style=flat)
 
 </div>
 
-## A little about me
+I'm a CS student into **full stack development**, **application security**, and **networking**. I like building applications, understanding how the pieces fit together, and going a little deeper than “it works.”
 
-I'm a computer science student interested in **full stack development**, **application security**, and **networking**. I enjoy turning ideas into working applications and figuring out what happens beneath the surface.
+This is where I keep my projects, experiments, and whatever I'm learning along the way. Some things are finished. Some are still a work in progress. There's usually something new to figure out.
 
-Away from the keyboard, you'll find me gaming, watching cricket (with strong opinions about the selectors), or starting yet another anime series.
+## 💻 Stuff I work on
 
-## Let's connect
+- **Web applications** — putting together the interface, backend, and everything that connects them.
+- **Security & networking** — understanding how systems communicate, where things go wrong, and how to make them safer.
+- **Cloud & systems** — working with deployments, containers, and applications with more than one moving part.
 
-[Portfolio](http://parthpathak719.github.io/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/parth-pathak-584629335/) &nbsp; · &nbsp; [Email](mailto:parth.pathak1905@gmail.com)
+I enjoy the overlap between these areas: building something useful, getting it running, and understanding what keeps it running.
+
+## 🎮 Outside of tech
+
+- Gaming — because apparently staring at one screen all day isn't enough.
+- Watching cricket, with strong opinions about the selectors.
+- Exploring way too many anime series for someone with unfinished projects.
+
+## 📬 Contact
+
+- **Email:** [parth.pathak1905@gmail.com](mailto:parth.pathak1905@gmail.com)
+- **LinkedIn:** [linkedin.com/in/parth-pathak-584629335](https://www.linkedin.com/in/parth-pathak-584629335/)
+- **Website:** [parthpathak719.github.io](http://parthpathak719.github.io/)
 
 ---
 
-<p align="center"><sub>Always building something. Occasionally breaking it on purpose.</sub></p>
+<p align="center"><i>always working on something. that something usually does not work.</i></p>
