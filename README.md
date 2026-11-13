@@ -6,7 +6,7 @@ CS student interested in full stack web development, application security, and n
 
 ## 💻 Stuff I work on
 
-- **Web applications:** Building interfaces, APIs, and the backend that connects them.
+- **Web applications:** Building interactive apps with a focus on usability and functionality.
 - **Security & networking:** Understanding how systems communicate and making them safer.
 - **Cloud & systems:** Working with containers, deployments, and connected applications.
 
