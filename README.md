@@ -31,4 +31,4 @@ I'm a final year computer science student who likes turning ideas into working a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=57606A&height=4" width="100%" alt="divider">
 
-<p align="center"><i>always working on something. that something usually does not work.</i></p>
+<p align="center"><i>always working on something, that something usually does not work.</i></p>
